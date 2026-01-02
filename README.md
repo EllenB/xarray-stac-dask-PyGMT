@@ -18,6 +18,8 @@ IN PROGRESS
 
 06 - [Digital Elevation Models with xarray, pystac and PyGMT](notebooks/06_raster_pystac.ipynb): A digital elevation model for The Nilgiris area. 
 
+07 - Zarr - ESA data
+
 0x - Other 
 
 -  Extracting information regarding the processing baseline in a collection
